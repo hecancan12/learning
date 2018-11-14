@@ -2,6 +2,7 @@
 #debug 14,Nov.2018
 python
 一、 python三种方法统计词频率
+
 1.直接使用dict
 
 2.使用defaultdict
